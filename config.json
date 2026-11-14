@@ -1,0 +1,19 @@
+{
+  "texts": {
+    "hero.eyebrow": "L'outil terrain des entreprises techniques",
+    "hero.note": "La version web fonctionne ordinateur, tablette et mobile."
+  },
+  "banner": {
+    "enabled": true,
+    "text": "Field Assistant est gratuit pendant la bêta. Les tarifs affichés sont indicatifs et pourront évoluer avant le lancement."
+  },
+  "prices": {
+    "base": 29,
+    "seat": 12
+  },
+  "app_store": {
+    "available": false,
+    "url": ""
+  },
+  "updated_at": "2026-11-13T21:08:15.197Z"
+}
